@@ -1,5 +1,6 @@
 <h1>Liliane</h1>
-<h2>Estudante na Residência em TIC Software/Serratec</h2>
+<h2>Formada na Residência em TIC Software/Serratec</h2>
+<h2>Desenvolvedora BackEnd</h2>
 <p align="center">
  <picture>
   <source
